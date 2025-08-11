@@ -9,24 +9,12 @@ This CLI creates essential folders for React projects with proper organization:
 - Ensures `.env` and `eslint.config.js` exist
 - Safe to run multiple times - won't overwrite existing files
 
-## Install
-
-**Installation:**
-```bash
-npm install react-dirs-generator
-```
-
-**One-time usage:**
-```bash
-npx react-dirs-generator
-```
-
 ## Usage
 
 Navigate to your React project root and run:
 
 ```bash
-react-dirs-generator
+npx react-dirs-generator
 ```
 
 This creates the following structure:
