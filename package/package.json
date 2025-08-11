@@ -1,0 +1,38 @@
+{
+  "name": "react-dirs-generator",
+  "version": "1.0.0",
+  "description": "Scaffold a clean, scalable React/Vite project structure in seconds",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "react-dirs-generator": "index.js"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abderrahim-dj/test-package-npm.git"
+  },
+  "keywords": [
+    "react",
+    "cli",
+    "folder-structure",
+    "scaffold",
+    "vite",
+    "project-structure",
+    "generator"
+  ],
+  "author": "abderrahim",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/abderrahim-dj/test-package-npm/issues"
+  },
+  "homepage": "https://github.com/abderrahim-dj/test-package-npm#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
